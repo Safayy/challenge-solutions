@@ -1,9 +1,3 @@
-/* Kyu  : 8
- * Link : https://www.codewars.com/kata/5dd462a573ee6d0014ce715b
- * Description : A function that checks if two characters are the same
- */
-
-//Function
 function sameCase(a, b){
 
     const regex = /[a-z]/i;
@@ -26,6 +20,5 @@ function sameCase(a, b){
         return 0;//Different Case
 }
 
-//Test
 let output = sameCase("S","Y");
 console.log(output);
