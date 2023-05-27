@@ -1,3 +1,3 @@
-# codewars-solutions
-Codewars solutions
-Account : https://www.codewars.com/users/Safay
+# Accounts
+[Code Wars](https://www.codewars.com/users/Safay) <br>
+[Leet Code](https://leetcode.com/Safayy/)<br>
