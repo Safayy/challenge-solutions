@@ -1,0 +1,7 @@
+def to_jaden_case(string):
+    new_string = ""
+    for word in string.split():
+        new_string += word.capitalize() + " "
+    return new_string
+
+print ( to_jaden_case("How can mirrors be real if our eyes aren't real") )
